@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&labelColor=black) ![Date](https://img.shields.io/badge/Date-October_2025-lightgrey?style=for-the-badge&labelColor=black) ![Status](https://img.shields.io/badge/Status-Operational_Standard-success?style=for-the-badge&labelColor=black) ![Clearance](https://img.shields.io/badge/Clearance-Internal_Use-red?style=for-the-badge&labelColor=black)
 
-![Architect](https://img.shields.io/badge/Architect-Xopher-purple?style=flat-square) ![Department](https://img.shields.io/badge/Dept-Hall_of_the_Gods-000000?style=flat-square)
+![Architect](https://img.shields.io/badge/Architect-Xopher-purple?style=flat-square) ![Department](https://img.shields.io/badge/Dept-Engineering-000000?style=flat-square)
 
 ---
 
