@@ -1,4 +1,4 @@
-# The Vector Delivery System (VDS)
+# The Vector Delivery Strategy (VDS)
 
 ![Version](https://img.shields.io/badge/Version-3.0-blue?style=for-the-badge&labelColor=black) ![Date](https://img.shields.io/badge/Date-October_2025-lightgrey?style=for-the-badge&labelColor=black) ![Status](https://img.shields.io/badge/Status-Operational_Standard-success?style=for-the-badge&labelColor=black) ![Clearance](https://img.shields.io/badge/Clearance-Internal_Use-red?style=for-the-badge&labelColor=black)
 
